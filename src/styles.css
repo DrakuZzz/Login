@@ -1,0 +1,76 @@
+/*cajita*/
+.caja{
+    background-color: #ffffff;
+    width: 290px;
+    height: 45px;
+    border: 2px solid  rgba(101,57,36);
+    border-radius: 8px;
+    text-align: left;
+    color: rgba(101,57,36);
+    font-size: 20px;
+    margin-bottom: 15px;
+    padding-left: 15px;
+  }
+  
+
+  /*Boton*/
+  .boton {
+    background-color: #ffffff;
+    width: 290px;
+    height: 45px;
+    border: 2px solid rgba(101,57,36);
+    border-radius: 10px;
+    text-align: center;
+    color: rgba(101,57,36);
+    font-family: Trebuchet MS, sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .boton:hover {
+    background-color: rgba(206, 206, 206, 0.623);
+  }
+  
+  .font{
+    margin-top: 12px;
+    font-family: Trebuchet MS, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(101,57,36);
+  }
+
+  .container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 500px;
+    background-color: #ffffff;
+    box-shadow: 1px 0px 25px rgba(101,57,36);
+    border-radius: 25px;
+    }
+    
+    body {
+        margin-top: 5%;
+        background-color: rgb(221,171,121);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .titulo {
+        font-size: 30px;
+        color: rgba(101,57,36);
+        font-family: Trebuchet MS, sans-serif;
+        font-weight: bold;
+        margin-bottom: 10px;
+      }
+
+      img{
+       width: 150px;
+       margin-bottom: 0px;
+      }
+      a{
+        text-decoration: none
+      }
